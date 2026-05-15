@@ -1,4 +1,4 @@
-vCard - Personal Portfolio
+Portafolio Personal
 
 # sidebar
 
@@ -11,228 +11,192 @@ Contacto
 Email
 angelamontero@gmail.com
 
-Phone
+Teléfono
 (+34) 693 60 61 09
 
-
-Localizacion
-Sevilla
+Localización
+Sevilla, España
 
 # navbar
 
-Sobre mi
+Sobre mí
 Resumen
 Portfolio
 Blog
-Contact
+Contacto
 
 # about
 
-Sobre mi
+Sobre mí
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Soy una manicurista profesional y artista del nail art con sede en Sevilla. Me apasiona transformar el cuidado de las uñas en una experiencia de diseño personalizada, elegante y creativa. Disfruto convirtiendo ideas complejas en diseños de uñas hermosos, únicos e intuitivos.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+Mi trabajo es cuidar la salud y estética de tus manos para que luzcan impecables, pero al mismo tiempo atractivas. Además, añado un toque personal a cada servicio, asegurándome de que cada diseño sea llamativo y cómodo de llevar. Mi objetivo es transmitir tu identidad y estilo propio de la manera más creativa posible.
 
 ## service
 
-What i'm doing
+Lo que hago
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+alt = icono diseño
+Diseño de Uñas (Nail Art)
+El diseño más moderno y de alta calidad realizado a un nivel profesional y artístico.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+alt = icono manicura
+Manicura Combinada
+Cuidado y limpieza profunda de uñas y cutículas con acabados profesionales duraderos.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+alt = icono extensiones
+Uñas de Gel y Acrílico
+Construcción y extensiones de uñas con materiales de primera calidad para un look natural o artístico.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+alt = icono fotografía
+Fotografía de resultados
+Realizo fotos de alta calidad de cada trabajo para que luzcas tus manos en tus redes sociales.
 
 
 ## testimonials
 
-Testimonials
+Testimonios
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Daniel Lewis
+Daniel Lewis
+Angela fue contratada para un servicio de imagen personal. Quedamos encantados con el trabajo realizado. Tiene mucha experiencia y se preocupa mucho por las necesidades del cliente. El acabado fue perfecto y muy profesional.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Jessica Miller
+Jessica Miller
+Increíble atención al detalle. Angela entiende perfectamente lo que buscas y lo eleva a otro nivel. Es muy minuciosa con la higiene y el cuidado de la uña natural, algo que valoro muchísimo.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Emily Evans
+Emily Evans
+La mejor manicurista que he tenido. Sus diseños a mano alzada son verdaderas obras de arte. Además, el trato es cercano y te hace sentir muy cómoda durante todo el proceso.
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Henry William
+Henry William
+Buscaba un regalo especial para mi pareja y el servicio de Angela fue la elección perfecta. Puntual, profesional y con un talento excepcional para el diseño de uñas moderno.
 
 
 ## clients
 
-Clients
+Clientes
 
-alt = client logo
-
+alt = logo cliente
 
 
 # resume
 
-Resume
+Resumen
 
-Education
+Educación
 
-University school of the arts
+Escuela Universitaria de Artes
 2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Especialización en estética aplicada y diseño visual para servicios de belleza personalizada.
 
-New york academy of art
+Academia de Arte de Sevilla
 2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Formación técnica en colorimetría, composición y cuidado avanzado de la estructura de la uña.
 
-High school of art and design
+Escuela de Arte y Diseño
 2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Estudios fundamentales en dibujo artístico y diseño, bases que hoy aplico en mis diseños de Nail Art.
 
-Experience
+Experiencia
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Manicurista Senior
+2015 — Presente
+Liderazgo en diseño creativo de uñas y atención personalizada a clientes VIP en el sector de la estética en Sevilla.
 
-Art director
+Especialista en Nail Art
 2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Desarrollo de estilos artísticos a mano alzada y aplicación de tendencias internacionales en estudios de belleza.
 
-Web designer
+Esteticista de Manos
 2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Perfeccionamiento en técnicas de manicura rusa, combinada y tratamientos de reconstrucción ungueal.
 
-My skills
+Mis habilidades
 
-Web design
-80%
-Graphic design
-70%
-Branding
+Esmaltado Permanente
 90%
-WordPress
-50%
-
+Nail Art (Mano alzada)
+85%
+Uñas Esculpidas
+95%
+Cuidado de Uña Natural
+100%
 
 
 # portfolio
 
 Portfolio
 
-All
-Web design
-Applications
-Web development
+Todos
+Manicura Permanente
+Extensiones (Gel/Acrílico)
+Nail Art
 
-Select category
-All
-Web design
-Applications
-Web development
+Seleccionar categoría
+Todos
+Manicura Permanente
+Extensiones (Gel/Acrílico)
+Nail Art
 
-alt = finance
-Finance
-Web development
+alt = diseño minimalista
+Elegancia Minimal
+Manicura Permanente
 
-alt = orizon
-Orizon
-Web development
+alt = estructura gel
+Estructura Natural
+Extensiones
 
-alt = fundo
-Fundo
-Web design
+alt = nail art flores
+Acuarela Floral
+Nail Art
 
-alt = brawlhalla
-Brawlhalla
-Applications
+alt = diseño geométrico
+Geometría Moderna
+Nail Art
 
-alt = dsm.
-DSM.
-Web design
+alt = manicura francesa
+Francesa Renovada
+Manicura Permanente
 
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
+alt = uñas efecto mármol
+Efecto Mármol Real
+Extensiones
 
 
 # blog
 
 Blog
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+alt = Tendencias de uñas 2024
+Tendencias
+Feb 23, 2024
+Tendencias de uñas para 2024
+Descubre los colores, formas y estilos que dominarán el mundo del Nail Art este año.
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+alt = Cómo cuidar tu manicura
+Consejos
+Feb 15, 2024
+Cómo hacer que tu manicura dure más
+Guía práctica con consejos diarios para mantener tus uñas impecables durante semanas.
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
+alt = El arte de la manicura rusa
+Técnica
+Jan 10, 2024
+¿Qué es la manicura rusa?
+Explicamos los beneficios de esta técnica de limpieza profunda para un acabado de lujo.
 
 
 # contact
 
-Contact
+Contacto
 
-Contact Form
+Formulario de Contacto
 
-Full name
-Email address
-Your Message
+Nombre completo
+Dirección de email
+Tu mensaje
 
-Send Message
+Enviar Mensaje
